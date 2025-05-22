@@ -1,8 +1,8 @@
 # Hello, I'm Homero! 👋
 
-🎓 Night student of Computer Engineering
+🎓 Computer Engineering Graduate
 
-💼 Working 9 to 5 as Software Analyst
+💼 Working full time as Software Analyst @ Sicredi Uniestados Financial Cooperative
 
 📍 Erechim, Rio Grande do Sul, Brazil
 
@@ -12,14 +12,15 @@ I am passionate about technology and always looking to learn new things. Current
 
 ## Skills 
 
-- **Programming Languages**: TypeScript, Python, C.
-- **Technologies and Tools**: React, Node.js, Bun.js
+- **Programming Languages**: Python, TypeScript, C.
+- **Technologies and Tools**: React, Node.js
 - **Other Skills**: SQL, Git, Jira + Confluence
 
 ## Projects
 
 Here are some of my favorite projects:
 
+- **[LinkedIn Learning Notes](https://github.com/HomeroKemmerich/linkedin-learning-notes)**: a parser for LinkedIn Learning TXT notes.
 - **[Journalistic Importer](https://github.com/HomeroKemmerich/journalistic-importer)**: An obsidian plugin for importing your journalistic entries.
 
 ## GitHub Stats
